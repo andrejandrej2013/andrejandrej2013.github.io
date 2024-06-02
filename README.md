@@ -1,2 +1,2 @@
 # andrejandrej2013.github.io
-pet-project
+pet-project with schema.org
